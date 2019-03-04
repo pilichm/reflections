@@ -20,3 +20,8 @@ To see what is connected with what.
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 One branch containing changes from both parent branches. To show that it contains changes from more than one branch.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Auto: Less time spending viewing non conflicting merge requestst.
+Manually: To have absolute controll over changes in commits.
