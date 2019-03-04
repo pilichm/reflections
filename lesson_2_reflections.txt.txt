@@ -17,3 +17,6 @@ For testing new features. When working in team.
 How do the diagrams help you visualize the branch structure?
 
 To see what is connected with what.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+One branch containing changes from both parent branches. To show that it contains changes from more than one branch.
