@@ -14,3 +14,8 @@ Fork - for copying repos on github.
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 To compare it with local changes.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+By sharing archives containing complete projects between colleagues.
+Easier: No need to learn version controll.
+Harder: Troules with keeping participants up to date and with merging changes made by multiple participants.
