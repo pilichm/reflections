@@ -3,3 +3,11 @@ Keeping it remote makesi safer, since its harder to accidently delete from both 
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 So that automatic pull doesn't override my changes.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Branches - cloning within one repo on local machine.
+Forks - cloning repos inside github.
+Clone - cloning repo from git to local machine or inside machine.
+Branches - for testing and implementing new features.
+Cloning - for downloading remote repos and moving repo inside my local machine.
+Fork - for copying repos on github.
