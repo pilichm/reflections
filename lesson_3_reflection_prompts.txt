@@ -19,3 +19,6 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 By sharing archives containing complete projects between colleagues.
 Easier: No need to learn version controll.
 Harder: Troules with keeping participants up to date and with merging changes made by multiple participants.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When changes are big, for example when working on a new feature so that i don't break anything in master.
